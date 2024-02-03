@@ -10,7 +10,7 @@ So, in 2021, I made this big leap from fixing cars to diving headfirst into the 
 * 🖥️  See my portfolio at [My Portfolio](http://kentenroth.dev)
 * 🚀  I'm currently working on [An Automated Garden for Raspberry Pi](http://github.com/KentenRoth/Garden-Project)
 * 🧠  I'm learning TypeScript
-* ⚡  My favorite food is Tacos.
+* ⚡  I want to run an ultra-marathon
 
 ### Skills
 
